@@ -7,23 +7,23 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
+    name: Sagar Parmar
     tagline: Full Stack Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
+    email: sagarparmar881@gmail.com
+    phone: 971 446 6108
+    timezone: India
     citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
+    website:  #do not add http://
+    linkedin: sagarparmar881
     xing: alandoe
-    github: sharu725
+    github: sagarparmar881
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@sagarparmar881'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -32,13 +32,13 @@ sidebar:
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Gujarati
           level: Native
 
-        - idiom: French
+        - idiom: Hindi
           level: Professional
 
-        - idiom: Spanish
+        - idiom: English
           level: Professional
 
     interests:

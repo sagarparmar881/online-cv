@@ -106,7 +106,7 @@ certifications:
           end: 2022
           organization: NVIDIA
           credentialid: 
-          credentialurl: https://drive.google.com/file/d/1q0Z_5TkDHRhdkgCClicprZhJg2su5BDk/view
+          credentialurl: drive.google.com/file/d/1q0Z_5TkDHRhdkgCClicprZhJg2su5BDk/view
           credentialname: NVIDIA
           details: 
         - name: Git learning

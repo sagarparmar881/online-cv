@@ -9,7 +9,7 @@ sidebar:
 
     # Profile information
     name: Sagar Parmar
-    tagline: Full Stack Developer
+    tagline: Software Engineer
     avatar: profile-sagar.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -17,7 +17,7 @@ sidebar:
     phone: 971 446 6108
     timezone: India
     citizenship:
-    website:  #do not add http://
+    website:  sagarparmar881.github.io/ #do not add http://
     linkedin: sagarparmar881
     xing: alandoe
     github: sagarparmar881
@@ -28,7 +28,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: #http://www.africau.edu/images/default/sample.pdf
 
     languages:
       title: Languages
@@ -37,10 +37,10 @@ sidebar:
           level: Native
 
         - idiom: Hindi
-          level: Professional
+          level: Fluent
 
         - idiom: English
-          level: Professional
+          level: Proficient
 
     interests:
       title: Interests
@@ -57,12 +57,8 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I am a skilled software engineer with proficiency in multiple programming languages, including C, C++, Python ,Java, MYSQL and Flutter. In addition to my programming skills, I possess knowledge of various tools and technologies that support the software development lifecycle. 
+      Currenty with 11 months of internship experience at NetWeb Software, I have gained valuable hands-on experience and honed my skills in a professional setting. Furthermore, I am well-versed in utilizing project management tools such as Jira and Confluence. I am eager to apply my skills and knowledge gained during my internship to tackle new challenges and continue to grow as a software engineer.
 education:
     title: Education
     info:

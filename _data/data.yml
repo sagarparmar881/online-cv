@@ -62,7 +62,7 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: M. Tech in Computer Science & Engineering
+      - degree: Masters in Computer Science & Engineering
         university: Navrachana University
         time: 2021 - 2023
         details: |
@@ -73,7 +73,7 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: B. Tech in Computer Science & Engineering
+      - degree: Bachelors in Computer Science & Engineering
         university: Navrachana University
         time: 2017 - 2021
         details: |

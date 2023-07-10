@@ -43,15 +43,15 @@ sidebar:
           level: Proficient
 
     interests:
-      title: Interests
+      title: Languages
       info:
-        - item: Climbing
+        - item: C/ C++
           link:
 
-        - item: Snowboarding
+        - item: Python
           link:
 
-        - item: Cooking
+        - item: Java
           link:
 
 career-profile:

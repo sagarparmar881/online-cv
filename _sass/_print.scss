@@ -41,5 +41,9 @@
    .fa-inverse:before {
      color: #ffffff !important;
    }
+   
+   a[href]:after {
+      content: none !important;
+  }
 
 }

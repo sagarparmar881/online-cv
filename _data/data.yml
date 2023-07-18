@@ -104,16 +104,16 @@ certifications:
         - name: NVIDIA Jetson AI Specialist Certificate
           start: 2022
           end: 
-          organization: NVIDIA
-          credentialid: 
+          # organizatzion: NVIDIA
+          # credentialid: 
           credentialurl: drive.google.com/file/d/1q0Z_5TkDHRhdkgCClicprZhJg2su5BDk/view
           credentialname: Certificate
           # details: 
         - name: Learn to Code with Python 3
           start: 2020
           end:
-          organization: Udemy
-          credentialid: UC-926eba93-5725-4ffb-8344-b90685c16825
+          # organization: Udemy
+          # credentialid: UC-926eba93-5725-4ffb-8344-b90685c16825
           credentialurl: https://www.udemy.com/certificate/UC-926eba93-5725-4ffb-8344-b90685c16825/
           credentialname: Certificate
           # details: 

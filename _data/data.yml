@@ -103,28 +103,20 @@ certifications:
       list:
         - name: NVIDIA Jetson AI Specialist Certificate
           start: 2022
-          end: 2022
+          end: 
           organization: NVIDIA
-          credentialid: 
+          credentialid: -
           credentialurl: drive.google.com/file/d/1q0Z_5TkDHRhdkgCClicprZhJg2su5BDk/view
-          credentialname: NVIDIA
-          details: 
-        - name: Git learning
-          start: 2019
+          credentialname: Certificate
+          # details: 
+        - name: Learn to Code with Python 3
+          start: 2020
           end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
-          details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur 
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh. 
-            Aenean fermentum, felis vulputate suscipit accumsan, 
-            sem enim bibendum augue, sed convallis arcu lacus at dui. 
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor. 
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim. 
-            Praesent venenatis erat non augue suscipit consectetur. 
+          organization: Udemy
+          credentialid: UC-926eba93-5725-4ffb-8344-b90685c16825
+          credentialurl: https://www.udemy.com/certificate/UC-926eba93-5725-4ffb-8344-b90685c16825/
+          credentialname: Certificate
+          # details: 
         
 projects:
     title: Projects
@@ -140,7 +132,7 @@ projects:
       - title: Real-Time Indian License Plate Recognition
         link: "https://github.com/sagarparmar881/real-time-indian-license-plate-recognition"
         tagline: "This repository is of a project named real-time indian license plate detection and recognition system. The source code of the repository implemented on Jetson Nano reached 40 FPS."
-        
+
 
 # oss:
     # title: OSS Contributions

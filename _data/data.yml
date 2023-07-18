@@ -133,25 +133,14 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Face Recognition from Multiple Camera
+      - title: Real-Time Face Recognition from Multiple Camera
         link: "https://github.com/sagarparmar881/multiple_camera_face_recognition"
-        # tagline: ""
+        tagline: "The system will use the Dlib library to detect and recognize faces. Dlib is a C++ library with Python bindings that provides a number of tools for computer vision, including face detection and recognition."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Real-Time Indian License Plate Recognition
+        link: "https://github.com/sagarparmar881/real-time-indian-license-plate-recognition"
+        tagline: "This repository is of a project named real-time indian license plate detection and recognition system. The source code of the repository implemented on Jetson Nano reached 40 FPS."
+        
 
 # oss:
     # title: OSS Contributions

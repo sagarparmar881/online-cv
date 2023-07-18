@@ -133,9 +133,9 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Face Recognition from Multiple Camera
+        link: "https://github.com/sagarparmar881/multiple_camera_face_recognition"
+        # tagline: ""
 
       - title: DevStudio
         link: "#"

@@ -120,10 +120,8 @@ certifications:
         
 projects:
     title: Projects
-    # introz: >
-    #   You can list your side projects in this
-    #   section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    #   Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    intro: >
+     
     assignments:
       - title: Real-Time Face Recognition from Multiple Camera
         link: "https://github.com/sagarparmar881/multiple_camera_face_recognition"

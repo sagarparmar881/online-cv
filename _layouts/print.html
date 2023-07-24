@@ -7,26 +7,33 @@
 <!--[if IE 9]> <html lang="en" class="ie9"> <![endif]-->
 <!--[if !IE]><!-->
 <html lang="en">
-  <!--<![endif]-->
-  {% include head.html %}
-  <style>
-    body {
-      /* padding: 0 !important; */
-      min-width: initial !important;
+<!--<![endif]-->
+{% include head.html %}
+<style>
+  body {
+    /* padding: 0 !important; */
+    min-width: initial !important;
 
-    }
-    .wrapper {
-      max-width: unset !important;
-    }
+  }
 
-    @page {
-        size: A4;
-        margin: 0;
-      }
- 
-  </style>
-  <body class="A4">
-    <section class="sheet padding-10mm">
+  .wrapper {
+    max-width: unset !important;
+  }
+
+  .sheet {
+    overflow: visible;
+    height: auto !important;
+    page-break-inside: avoid;
+  }
+
+  @page {
+   size: A4;
+   margin: 15mm 15mm 15mm 15mm;
+}
+</style>
+
+<body class="A4">
+  <section class="sheet">
 
     <div class="wrapper">
       {% include sidebar-small.html %}
@@ -35,6 +42,7 @@
     </div>
   </section>
 
-    {% include scripts.html %}
-  </body>
+  {% include scripts.html %}
+</body>
+
 </html>

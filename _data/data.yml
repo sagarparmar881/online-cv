@@ -43,15 +43,19 @@ sidebar:
           level: Proficient
 
     interests:
-      title: Programming Languages
+      title: Interests
       info:
-        - item: C/ C++
+
+        - item: Photography
           link:
 
-        - item: Python
+        - item: Designing
           link:
 
-        - item: Java
+        - item: Music
+          link:
+
+        - item: Reading
           link:
 
 career-profile:

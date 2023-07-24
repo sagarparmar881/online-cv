@@ -3,9 +3,9 @@
 #
 
 sidebar:
-    position: right # position of the sidebar : left or right
+    position: left # position of the sidebar : left or right
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: False # set to False if you want education in main section instead of in sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
     # Profile information
     name: Sagar Parmar
     tagline: Software Engineer
@@ -84,6 +84,20 @@ education:
           # pretium quis, sem.
           #   - Bullet point
           #   - Bullet point
+      # - degree: High School
+      #   university: Vidhyut Board Vidhyalaya
+      #   time: 2015 - 2017
+        # details: |
+         # Describe your study here lorem ipsum dolor sit amet, consectetuer
+         # adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+         # sociis natoque penatibus et magnis dis parturient montes, nascetur
+         # ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+         # pretium quis, sem.
+         #   - Bullet point
+         #   - Bullet point
+      # - degree: School
+      #   university: Kelavani English Medium School
+      #   time: 2015
 experiences:
     title: Experiences
     info:
@@ -174,26 +188,40 @@ projects:
     #     conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Skills
 
     toolset:
-      - name: Python (Django)
-        level: 67%
+      - name: Platforms
+        level: Windows, Linux, Mac
 
-      - name: SQL (MySQL)
-        level: 72%
+      - name: Programming Languages
+        level: Python, Java, C/ C++, Scala, SQL, Dart, Go
 
-      - name: Angular
-        level: 98%
+      - name: Scripting Languages
+        level: Javascript, PHP, R, Bash, VBA
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: Frameworks
+        level: Express, Django, Laravel, Spring, Angular, React, Vue
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Database
+        level: Oracle, MySQL, MongoDB
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: DevOps
+        level: Git, Maven, Jenkins, Docker, Selenium, Gradle
 
+      - name: Web Services
+        level: RESTful APIs, 
+
+      - name: Web Servers
+        level: Apache HTTP Server, Apache Tomcat, NGINX, NodeJS
+      
+      - name: Cloud Computing
+        level: DigitalOcean, Linode, AWS, Azure, Hostinger
+      
+      - name: Cloud Platforms
+        level: Jira, Confluence, Vercel
+      
+      - name: Tools
+        level: JMeter, Visual Studio, Eclipse
 # footer: >
 #     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>

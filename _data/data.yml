@@ -61,9 +61,9 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am a skilled software engineer with proficiency in multiple programming languages, including C, C++, Python ,Java, MYSQL and Flutter. In addition to my programming skills, I possess knowledge of various tools and technologies that support the software development lifecycle. 
-      Currenty with 11 months of internship experience at NetWeb Software, I have gained valuable hands-on experience and honed my skills in a professional setting. Furthermore, I am well-versed in utilizing project management tools such as Jira and Confluence. I am eager to apply my skills and knowledge gained during my internship to tackle new challenges and continue to grow as a software engineer.
-education:
+    I am Sagar, a software engineer proficient in Python, Java, C/C++ and a few more. Experienced in web development with frameworks like React, Vue and Spring. I am well-versed in DevOps tools like Jenkins, Docker and Maven. With a strong understanding of databases such as MySQL and MongoDB, I excel in building robust applications. My passion for continuous learning and adapting to new technologies drives my commitment to delivering innovative solutions.
+    
+    education:
     title: Education
     info:
       - degree: Masters in Computer Science & Engineering
@@ -123,7 +123,7 @@ certifications:
           start: 2022
           end: 
           organizatzion: NVIDIA
-          credentialid: UC-926eba93-5725-4ffb-8344-b90685c16825
+          credentialid: UC-926eba93-5725-4ffb-8344-b90685c16825 
           credentialurl: drive.google.com/file/d/1q0Z_5TkDHRhdkgCClicprZhJg2su5BDk/view
           credentialname: Certificate
           details: 

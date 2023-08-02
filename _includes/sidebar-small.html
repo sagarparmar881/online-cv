@@ -4,8 +4,9 @@
   <div class="profile-container">
 
     {% if sidebar.avatar %}
-    <img class="avatar" src="{{ site.baseurl }}/assets/images/{{ sidebar.avatar }}" alt="profile picture" />
+    <img class="avatar" src="{{ site.baseurl }}/assets/images/{{ sidebar.avatar }}" alt="profile picture" onclick="javascript:window.print()"/>
     {% endif %}
+    <!-- <button onclick="javascript:window.print()">Print This Webpage</button> -->
 
     {% if sidebar.name %}
     <h1 class="name">{{ sidebar.name }}</h1>
